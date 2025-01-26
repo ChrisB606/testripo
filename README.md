@@ -1,2 +1,2 @@
-# testripo
-GitHub Intro repo
+# Get Started with GitHub Coursera
+Introduction Course
